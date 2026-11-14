@@ -1,0 +1,6 @@
+{
+  "name": "DayPin 365",
+  "description": "Lightweight, battery-efficient 365-day reminder, media alarm, and floating sticky-note app for Android 14 tablets and phones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
